@@ -4,8 +4,8 @@
 ## Hi 👋, 
 ¡Hola! Soy Ramsés Mendoza, soy desarrollador de software 👨‍💻 me apasiona el frontend, y soy un entusiasta de JavaScript, pero no me limito a ello, también escribo código Python para tareas de Inteligencia Artificial 🤖. 
 
-- 🔭 Actualmente trabajo con JavaScript
-- 🌱 Estoy aprendiendo Inteligencia Artificial
+- 🔭 Actualmente trabajo con JavaScript.
+- 🌱 Estoy aprendiendo Inteligencia Artificial.
 - 💬 Me encanta conversar sobre arte, antropología y ovbiamente, tecnología.
 - ✏️ También escribo en un blog.
 - ⚡ Languajes: JavaScript, CSS, Python, PHP...
